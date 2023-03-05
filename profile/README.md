@@ -15,7 +15,8 @@ We are currently WIP, but if you have any questions or would like to learn more 
 - Phone: [+40731377784](tel:+40731377784)
 - Address: [Str. Dionisie cel Mic, nr. 26 cp. 900363](Constanta/London)
 
-### Connect with us: [<img align="left" alt="Solveet-Strategy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with us: 
+[<img align="left" alt="Solveet-Strategy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Frontend toolkit we like:
@@ -27,15 +28,21 @@ We are currently WIP, but if you have any questions or would like to learn more 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 
 
 ### Backend toolkit we stand by:
 
-![Docker Logo](./assets/docker.png)
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /> 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> 
+<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/scala/scala.png" /> 
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" /> 
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" /> 
+<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" /> 
+<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png" /> 
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" /> 
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" />
 
 [linkedin]: https://www.linkedin.com/company/solveet-strategy/
