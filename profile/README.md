@@ -6,19 +6,6 @@ We specialise in driving digital transformation in industries that are lagging b
 
 Our expertise lies in assisting public institutions in their journey towards Industry 5.0, enabling them to stay ahead of the curve.
 
-## Contact Us
-
-We are currently WIP, but if you have any questions or would like to learn more about our Solveet Strategy preparation, please don't hesitate to contact us:
-
-- Website: [https://www.malcons.ro/](https://www.malcons.ro/)
-- Email: [solveet.tech@gmail.com](mailto:solveet.tech@gmail.com)
-- Phone: [+40731377784](tel:+40731377784)
-- Address: [Str. Dionisie cel Mic, nr. 26 cp. 900363](Constanta/London)
-
-### Connect with us: 
-[<img align="left" alt="Solveet-Strategy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 ### Frontend toolkit we like:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,6 +19,7 @@ We are currently WIP, but if you have any questions or would like to learn more 
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 
+<br/>
 
 ### Backend toolkit we stand by:
 
@@ -45,4 +33,18 @@ We are currently WIP, but if you have any questions or would like to learn more 
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" /> 
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" />
 
-[linkedin]: https://www.linkedin.com/company/solveet-strategy/
+<br/>
+
+## Contact Us
+
+We are currently WIP, but if you have any questions or would like to learn more about our Solveet Strategy preparation, please don't hesitate to contact us:
+
+- Website: [https://www.malcons.ro/](https://www.malcons.ro/)
+- Email: [solveet.tech@gmail.com](mailto:solveet.tech@gmail.com)
+- Phone: [+40731377784](tel:+40731377784)
+- Address: [Str. Dionisie cel Mic, nr. 26 cp. 900363](https://goo.gl/maps/AhZ76qurpVCJ3kMS8)
+
+### Connect with us: 
+[<img align="left" alt="Solveet-Strategy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+ [linkedin]: https://www.linkedin.com/company/solveet-strategy/
