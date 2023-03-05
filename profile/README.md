@@ -1,4 +1,4 @@
-# Hello there from Solveet's GitHub Profile
+# Quick word about us
 
 At Solveet, we are committed to innovation and collaboration in the tech industry. Our company provides bespoke solutions that are especially designed to **fit your budget** and meet your unique requirements.
 
@@ -29,9 +29,7 @@ Our expertise lies in assisting public institutions in their journey towards Ind
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" /> 
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" /> 
 <img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" /> 
-<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png" /> 
-<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" /> 
-<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" />
+<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png" />
 
 <br/>
 
