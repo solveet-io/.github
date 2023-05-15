@@ -1,10 +1,10 @@
 # Quick word about us
 
-At Solveet, we are committed to innovation and collaboration in the tech industry. Our company provides bespoke solutions that are especially designed to **fit your budget** and meet your unique requirements.
+We provide bespoke solutions that are especially designed to **fit your budget** and meet your unique requirements.
 
 We specialise in driving digital transformation in industries that are lagging behind in terms of technology - including Education, Construction and Healthcare.
 
-Our expertise lies in assisting public institutions in their journey towards Industry 5.0, enabling them to stay ahead of the curve.
+*Expertise* lies in assisting public institutions in their journey towards Industry 5.0, enabling them to stay ahead of the curve.
 
 ### Frontend toolkit we like:
 
@@ -37,7 +37,7 @@ Our expertise lies in assisting public institutions in their journey towards Ind
 
 We are currently WIP, but if you have any questions or would like to learn more about our Solveet Strategy preparation, please don't hesitate to contact us:
 
-- Website: [https://www.malcons.ro/](https://www.malcons.ro/)
+- Website: [https://www.malcons.ro/](https://www.solveet.eu/)
 - Email: [solveet.tech@gmail.com](mailto:solveet.tech@gmail.com)
 - Phone: [+40731377784](tel:+40731377784)
 - Address: [Str. Dionisie cel Mic, nr. 26 cp. 900363](https://goo.gl/maps/AhZ76qurpVCJ3kMS8)
