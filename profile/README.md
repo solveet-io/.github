@@ -37,7 +37,7 @@ We specialise in driving digital transformation in industries that are lagging b
 
 We are currently WIP, but if you have any questions or would like to learn more about our Solveet Strategy preparation, please don't hesitate to contact us:
 
-- Website: [https://www.malcons.ro/](https://www.solveet.eu/)
+- Website: [https://www.solveet.eu/](https://www.solveet.eu/)
 - Email: [solveet.tech@gmail.com](mailto:solveet.tech@gmail.com)
 - Phone: [+40731377784](tel:+40731377784)
 - Address: [Str. Dionisie cel Mic, nr. 26 cp. 900363](https://goo.gl/maps/AhZ76qurpVCJ3kMS8)
